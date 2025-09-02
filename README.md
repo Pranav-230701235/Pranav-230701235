@@ -17,10 +17,10 @@
 ## 📫 Let's Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rampratheeshsk/">
+  <a href="https://www.linkedin.com/in/pranav-sriram-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:skrampratheesh@gmail.com">
+  <a href="mailto:spranav2023@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
