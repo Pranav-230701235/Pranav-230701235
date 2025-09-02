@@ -38,7 +38,7 @@
 ## 📊 GitHub Activity  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-230701235&bg_color=000000&color=ffffff&line=29bc5d&point=ffffff&area=true&hide_border=true)](https://github.com/Pranav-Sriram/github-readme-activity-graph)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ram-Pratheesh&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav-230701235&theme=github_dark" />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Pranav-230701235)
 
